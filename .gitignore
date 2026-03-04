@@ -1,0 +1,7 @@
+.env
+model.pkl
+Ece/
+Zeynep/
+Murat/
+__pycache__/
+*.pyc
