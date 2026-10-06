@@ -3,4 +3,5 @@ FaceGuard is a real-time facial recognition security system that sends Telegram 
 ## Built by
 
 Ece Erkmen (github.com/ecerkmen)
+
 Claude (Anthropic): architectural guidance and Socratic mentorship throughout development. An independent project. Not affiliated with or endorsed by Anthropic.
